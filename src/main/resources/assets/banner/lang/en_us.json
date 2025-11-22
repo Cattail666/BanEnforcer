@@ -1,0 +1,13 @@
+{
+  "itemGroup.banner": "Example Mod Tab",
+  "block.banner.example_block": "Example Block",
+  "item.banner.example_item": "Example Item",
+
+  "banner.configuration.title": "Banner Configs",
+  "banner.configuration.section.banner.common.toml": "Banner Configs",
+  "banner.configuration.section.banner.common.toml.title": "Banner Configs",
+  "banner.configuration.items": "Item List",
+  "banner.configuration.logDirtBlock": "Log Dirt Block",
+  "banner.configuration.magicNumberIntroduction": "Magic Number Text",
+  "banner.configuration.magicNumber": "Magic Number"
+}
